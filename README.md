@@ -14,3 +14,5 @@ Export expenses to CSV (uses pandas if available, falls back to manual export)
 All data stored locally in a single SQLite file (expenses.db)
 
 Simple install, cross-platform, and no signup or web dependency
+
+
